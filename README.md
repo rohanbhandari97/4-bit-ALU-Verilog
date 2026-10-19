@@ -1,5 +1,3 @@
-# 4-bit-ALU-Verilog
-A 4-bit Arithmetic Logic Unit designed and simulated using Verilog HDL.
 # 4-Bit ALU Using Verilog HDL
 
 A 4-bit Arithmetic Logic Unit (ALU) designed using Verilog HDL and verified through simulation with Icarus Verilog and GTKWave.
