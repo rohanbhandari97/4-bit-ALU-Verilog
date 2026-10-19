@@ -38,14 +38,16 @@ Test inputs: A = 10, B = 3.
 - Icarus Verilog
 - GTKWave
 - Visual Studio Code
-## Simulation Waveform
 
-The waveform below shows the ALU outputs for all five operations.
-
-![ALU Simulation Waveform](alu_waveform.png)
 ## Learning Outcomes
 
 - Practiced combinational logic design using Verilog.
 - Used a `case` statement to select operations.
 - Created a testbench to verify hardware functionality.
 - Examined simulation waveforms using GTKWave.
+
+## Simulation Waveform
+
+The waveform below shows the ALU outputs for all five operations.
+
+![ALU Simulation Waveform](alu_waveform.png)
